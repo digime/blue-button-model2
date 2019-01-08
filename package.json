@@ -1,6 +1,6 @@
 {
     "name": "blue-button-model",
-    "version": "1.10.0",
+    "version": "1.10.0-fixed-dependencies.0",
     "description": "Blue Button Model Validation",
     "main": "/index.js",
     "directories": {
@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "lodash": "~3.10.1",
-        "z-schema": "~3.15.4"
+        "z-schema": "3.24.2"
     },
     "devDependencies": {
         "chai": "~3.4.0",
